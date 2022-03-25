@@ -1,0 +1,9 @@
+package com.unitbv;
+
+public abstract class Shape {
+
+	public abstract void calculateArea();
+	public void calculatePerimeter(){
+		System.out.println("perimeter calculated");
+	}
+}

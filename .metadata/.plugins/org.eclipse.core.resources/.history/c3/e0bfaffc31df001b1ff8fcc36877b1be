@@ -1,0 +1,11 @@
+package com.modifiers;
+
+public class Student {
+
+	private int age;
+	private void Sudent() {
+		// TODO Auto-generated method stub
+		age+=2;
+		System.out.println(age);
+	}
+}

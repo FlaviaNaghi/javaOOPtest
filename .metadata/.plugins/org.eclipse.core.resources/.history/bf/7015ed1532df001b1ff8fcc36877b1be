@@ -1,0 +1,11 @@
+package com.modifiers;
+
+public class Student {
+
+	private int age;
+	private void Student(int age) {
+		// TODO Auto-generated method stub
+		this.age+=2;
+		System.out.println(age);
+	}
+}
